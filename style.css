@@ -1,0 +1,13 @@
+.row{
+ height: 400px;
+}
+.div1{
+    background-color: blue;
+
+}
+.body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5;
+}
