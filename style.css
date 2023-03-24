@@ -1,5 +1,9 @@
+.container{
+ margin-bottom: 27px;
+ margin-top: 27px;
+}
 .row{
- height: 400px;
+ height: 300px;
 }
 .div1{
     background-color: blue;
